@@ -9,4 +9,4 @@
 - 학습된 가중치 파일은 https://github.com/WongKinYiu/yolov7에서 찾아볼 수 있습니다
 
 ## 실사용된 모습
-![example](~@source/example.PNG)
+![example](~@source./example.PNG)
